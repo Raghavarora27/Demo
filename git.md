@@ -4,3 +4,5 @@ Link local and Cloud repo---
 3. git pull origin master -----> to fetch all repo files on cloud 
 4. git add .
 5. git status
+6. git commit -m"message"
+7. git push origin master
