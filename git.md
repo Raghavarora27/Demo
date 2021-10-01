@@ -6,3 +6,6 @@
 5. git status
 6. git commit -m"message"
 7. git push origin master
+8. git brannch branchname --> making a new branch
+9. git branch -> check current branch
+10. git checkout branchname -> change branch
